@@ -3,12 +3,12 @@
   <head>
     <title>что-то</title>
     <script>
-      async function fetch() {
+      async function fetchjson() {
         const request = await fetch('https://discord.com/api/guilds/1234086432981913630/widget.json');
         const json = await request.json();
         console.log(json);
       }
-      fetch()
+      fetchjson()
     </script>
   </head>
   <body>
