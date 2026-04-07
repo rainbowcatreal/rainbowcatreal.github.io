@@ -3,3 +3,4 @@
 но ридми вроде отображается на гитхаб пейджес если нет хтмл, поэтому
 # Соцсети
 лень
+<script src="https://keepandroidopen.org/banner.js"></script>
